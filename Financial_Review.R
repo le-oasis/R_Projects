@@ -1,6 +1,6 @@
 
 getwd()
-setwd('/Users/KVNG-OYIN/Desktop/R1400')
+#setwd()
 
 fin <- read.csv('P2.csv', na.strings =c(""))
 fin

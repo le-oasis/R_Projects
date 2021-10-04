@@ -11,6 +11,8 @@ They have requested the following charts:
 * A scatterplot that includes industry trends for the expenses - revenue relationship
 * BoxPlots showing growth by industry 
 
+*Note : associated csv file is 'P2.csv'
+
 
 ## Project 1:  Machine Utilization 
 
@@ -24,3 +26,5 @@ You have been supplied one month worth of data for all of their machines. The da
 * Vector: All hours where utilisation is unknown (NA's)
 * Dataframe: For this machine
 * Plot: For all machines
+
+*Note : associated csv file is 'MU.csv'
